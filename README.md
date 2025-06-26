@@ -18,6 +18,10 @@ In this project, let's build a **Money Manager** app
 
 </details>
 
+### DEMO LINK
+
+https://expcal.ccbp.tech/  (click the link to see the demo)
+
 ### Set Up Instructions
 
 <details>
